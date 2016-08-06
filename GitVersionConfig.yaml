@@ -8,7 +8,7 @@ patch-version-bump-message: '\+semver:\s?(dev|patch)'
 legacy-semver-padding: 4
 build-metadata-padding: 4
 commit-message-incrementing: Enabled
-next-version: 1.4.0
+next-version: 1.5.0
 branches:
   master:
     mode: ContinuousDeployment
